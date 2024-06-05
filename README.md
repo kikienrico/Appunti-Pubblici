@@ -2,5 +2,7 @@
 <details>
 <summary>Telecomunicazioni</summary>
 <br>
-[Formulario 30/05/2024](Telecomunicazioni/Formulario%30.05.2024.md)
+<ul>
+  <li><a href="/Telecomunicazioni/Formulario%30.05.2024.md">Formulario 30/05/2024</a></li>
+</ul>
 </details>
