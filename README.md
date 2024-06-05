@@ -1,5 +1,4 @@
 # Appunti Pubblici
-Qui troverai tutti gli appunti presi nella classe 2024/2025
 <details>
 <summary>Telecomunicazioni</summary>
 <br>
