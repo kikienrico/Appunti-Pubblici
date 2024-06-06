@@ -1,17 +1,45 @@
 # Appunti Pubblici
 <details>
-<summary>Telecomunicazioni</summary>
-<br>
-<ul>
-  <li><a href="/Telecomunicazioni/Formulario 30.05.2024.md">Formulario 30/05/2024</a>
-  <li><a href="/Telecomunicazioni/Formulario 18.04.2024.md">Formulario 18/04/2024</a>  <li><a href="/Telecomunicazioni/Formulario 21.03.2024.md">Formulario 21/03/2024</a>
-  </li>
-</ul>
+  <summary>Telecomunicazioni</summary>
+  <br>
+  <ul>
+    <li><a href="/Telecomunicazioni/Formulari/Formulario 30.05.2024.md">Formulario 30/05/2024</a></li>
+    <li><a href="/Telecomunicazioni/Formulari/Formulario 18.04.2024.md">Formulario 18/04/2024</a></li>
+    <li><a href="/Telecomunicazioni/Formulari/Formulario 21.03.2024.md">Formulario 21/03/2024</a></li>
+  </ul>
 </details>
-<details>
-<summary>Storia & Italiano</summary>
-<br>
-<ul>
 
-</ul>
+<details>
+  <summary>Storia & Italiano</summary>
+  <br>
+  <details style="margin-left: 20px;">
+    <summary>Napoleone e Rivoluzione Francese</summary>
+    <ul>
+      <li><a href="/Storia & Italiano/Napoleone e Rivoluzione Francese/Napoleone.md">Napoleone</a></li>
+      <li><a href="/Storia & Italiano/Napoleone e Rivoluzione Francese/Punti Chiave - Napoleone.md">Punti Chiave - Napoleone</a></li>
+      <li><a href="/Storia & Italiano/Napoleone e Rivoluzione Francese/Rivoluzione Francese.md">Rivoluzione Francese</a></li>
+      <li><a href="/Storia & Italiano/Napoleone e Rivoluzione Francese/Punti Chiave - Rivoluzione Francese.md">Punti Chiave - Rivoluzione Francese</a></li>
+    </ul>
+  </details>
+  <details style="margin-left: 20px;">
+    <summary>Ugo Foscolo</summary>
+    <ul>
+      <li><a href="/Storia & Italiano/Ugo Foscolo/Ugo Foscolo.md">Ugo Foscolo</a></li>
+      <li><a href="/Storia & Italiano/Ugo Foscolo/Neoclassicismo e Preromanticismo.md">Neoclassicismo e Preromanticismo</a></li>
+      <li><a href="/Storia & Italiano/Ugo Foscolo/T1.md">Testo 1</a></li>
+      <li><a href="/Storia & Italiano/Ugo Foscolo/T2.md">Testo 2</a></li>
+      <li><a href="/Storia & Italiano/Ugo Foscolo/T3.md">Testo 3</a></li>
+      <li><a href="/Storia & Italiano/Ugo Foscolo/T7 & sonetti.md">Testo 7 e sonetti</a></li>
+      <li><a href="/Storia & Italiano/Ugo Foscolo/T8.md">Testo 8</a></li>
+      <li><a href="/Storia & Italiano/Ugo Foscolo/T9.md">Testo 9</a></li>
+      <li><a href="/Storia & Italiano/Ugo Foscolo/T10.md">Testo 10</a></li>
+    </ul>
+  </details>
+  <br>
+  <ul>
+    <li><a href="/Storia & Italiano/Riassunti 09.10.2023.md">Galileo Galilei (09/10/2023)</a></li>
+    <li><a href="/Storia & Italiano/Goldoni.md">Goldoni</a></li>
+    <li><a href="/Storia & Italiano/Parini.md">Parini</a></li>
+  </ul>
+  <br>
 </details>
