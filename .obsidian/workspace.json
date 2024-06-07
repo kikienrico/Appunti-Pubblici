@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Informatica/Exercises_For_Fun/Ex2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Informatica/Exercises_For_Fun/Ex2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Informatica/Exercises_For_Fun/Ex2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Informatica/Exercises_For_Fun/Ex2.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "3aee786767c4194c",
   "lastOpenFiles": [
+    "README.md",
     "Informatica/Exercises_For_Fun/Ex2.md",
     "Informatica/Exercises_For_Fun/Ex1.md",
     "Informatica/Exercises_For_Fun/Ex2 - Copy.md",
     "Informatica/Exercises_For_Fun/Ex1 - Copy.md",
-    "README.md",
     "Storia & Italiano/Goldoni.md"
   ]
 }
