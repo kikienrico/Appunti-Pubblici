@@ -12,7 +12,7 @@
 <details>
   <summary>Storia & Italiano</summary>
   <br>
-  <details style="margin-left: 20px;">
+  <details style="margin-left: 40px;">
     <summary>Napoleone e Rivoluzione Francese</summary>
     <ul>
       <li><a href="/Storia & Italiano/Napoleone e Rivoluzione Francese/Napoleone.md">Napoleone</a></li>
@@ -21,7 +21,7 @@
       <li><a href="/Storia & Italiano/Napoleone e Rivoluzione Francese/Punti Chiave - Rivoluzione Francese.md">Punti Chiave - Rivoluzione Francese</a></li>
     </ul>
   </details>
-  <details style="margin-left: 20px;">
+  <details style="margin-left: 40px;">
     <summary>Ugo Foscolo</summary>
     <ul>
       <li><a href="/Storia & Italiano/Ugo Foscolo/Ugo Foscolo.md">Ugo Foscolo</a></li>
