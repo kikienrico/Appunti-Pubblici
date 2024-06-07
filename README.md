@@ -1,19 +1,9 @@
 # Appunti Pubblici
-<details>
-  <summary>Telecomunicazioni</summary>
-  <br>
-  <ul>
-    <li><a href="/Telecomunicazioni/Formulari/Formulario 30.05.2024.md">Formulario 30/05/2024</a></li>
-    <li><a href="/Telecomunicazioni/Formulari/Formulario 18.04.2024.md">Formulario 18/04/2024</a></li>
-    <li><a href="/Telecomunicazioni/Formulari/Formulario 21.03.2024.md">Formulario 21/03/2024</a></li>
-  </ul>
-</details>
+Questa repository contiene appunti e riassunti di vari argomenti di studio. È stata creata per raccogliere e organizzare in modo sistematico tutte le informazioni utili acquisite durante il percorso di apprendimento.
 
-<details>
-  <summary>Storia & Italiano</summary>
-  <br>
-  <details style="margin-left: 40px;">
-    <summary>Napoleone e Rivoluzione Francese</summary>
+## Italiano ##
+<details style="margin-left: 40px;">
+  <summary>Napoleone e Rivoluzione Francese</summary>
     <ul>
       <li><a href="/Storia & Italiano/Napoleone e Rivoluzione Francese/Napoleone.md">Napoleone</a></li>
       <li><a href="/Storia & Italiano/Napoleone e Rivoluzione Francese/Punti Chiave - Napoleone.md">Punti Chiave - Napoleone</a></li>
@@ -36,10 +26,21 @@
     </ul>
   </details>
   <br>
+  <h4>Altro</h4>
   <ul>
     <li><a href="/Storia & Italiano/Riassunti 09.10.2023.md">Galileo Galilei (09/10/2023)</a></li>
     <li><a href="/Storia & Italiano/Goldoni.md">Goldoni</a></li>
     <li><a href="/Storia & Italiano/Parini.md">Parini</a></li>
   </ul>
   <br>
+</details>
+
+## Telecomunicazioni ##
+<details>
+  <summary>Formulari</summary>
+  <ul>
+    <li><a href="/Telecomunicazioni/Formulari/Formulario 30.05.2024.md">Formulario 30/05/2024</a></li>
+    <li><a href="/Telecomunicazioni/Formulari/Formulario 18.04.2024.md">Formulario 18/04/2024</a></li>
+    <li><a href="/Telecomunicazioni/Formulari/Formulario 21.03.2024.md">Formulario 21/03/2024</a></li>
+  </ul>
 </details>
