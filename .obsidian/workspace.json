@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatica/Exercises_For_Fun/Ex2.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatica/Exercises_For_Fun/Ex2.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatica/Exercises_For_Fun/Ex2.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatica/Exercises_For_Fun/Ex2.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "3aee786767c4194c",
   "lastOpenFiles": [
-    "Informatica/Exercises_For_Fun/Ex1.md",
     "Informatica/Exercises_For_Fun/Ex2.md",
+    "Informatica/Exercises_For_Fun/Ex1.md",
     "Informatica/Exercises_For_Fun/Ex2 - Copy.md",
     "Informatica/Exercises_For_Fun/Ex1 - Copy.md",
     "README.md",

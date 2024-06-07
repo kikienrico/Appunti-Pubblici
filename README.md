@@ -6,13 +6,14 @@ Questa repository contiene appunti e riassunti di vari argomenti di studio. È s
   <summary>Exercises (just for fun)</summary>
     <ul>
      <li><a href="/Informatica/Exercises_For_Fun/Ex1.md">Ex1 (Credit Card Mask)</a></li>
+     <li><a href="/Informatica/Exercises_For_Fun/Ex2.md">Ex2 (Two Sum)</a></li>
     </ul>
   </details>
   <details style="margin-left: 40px;">
   <summary>Exercises (School related)</summary>
     
   </details>
-
+<br>
 ## Italiano ##
 <details style="margin-left: 40px;">
   <summary>Napoleone e Rivoluzione Francese</summary>
@@ -45,8 +46,6 @@ Questa repository contiene appunti e riassunti di vari argomenti di studio. È s
     <li><a href="/Storia & Italiano/Parini.md">Parini</a></li>
   </ul>
   <br>
-</details>
-
 ## Telecomunicazioni ##
 <details>
   <summary>Formulari</summary>
