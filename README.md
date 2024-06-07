@@ -10,9 +10,7 @@ Questa repository contiene appunti e riassunti di vari argomenti di studio. È s
   </details>
   <details style="margin-left: 40px;">
   <summary>Exercises (School related)</summary>
-    <ul>
-     
-    </ul>
+    
   </details>
 
 ## Italiano ##
