@@ -1,11 +1,11 @@
 # Appunti Pubblici
 Questa repository contiene appunti e riassunti di vari argomenti di studio. È stata creata per raccogliere e organizzare in modo sistematico tutte le informazioni utili acquisite durante il percorso di apprendimento.
 
-## Telecomunicazioni ##
+## Informatica ##
 <details style="margin-left: 40px;">
   <summary>Exercises (just for fun)</summary>
     <ul>
-     
+     <li><a href="/Informatica/Execises_For_Fun/Ex1.md">Ex1 (Credit Card Mask)</a></li>
     </ul>
   </details>
   <details style="margin-left: 40px;">
