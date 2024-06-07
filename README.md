@@ -1,6 +1,20 @@
 # Appunti Pubblici
 Questa repository contiene appunti e riassunti di vari argomenti di studio. È stata creata per raccogliere e organizzare in modo sistematico tutte le informazioni utili acquisite durante il percorso di apprendimento.
 
+## Telecomunicazioni ##
+<details style="margin-left: 40px;">
+  <summary>Exercises (just for fun)</summary>
+    <ul>
+     
+    </ul>
+  </details>
+  <details style="margin-left: 40px;">
+  <summary>Exercises (School related)</summary>
+    <ul>
+     
+    </ul>
+  </details>
+
 ## Italiano ##
 <details style="margin-left: 40px;">
   <summary>Napoleone e Rivoluzione Francese</summary>
