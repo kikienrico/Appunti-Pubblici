@@ -14,6 +14,7 @@ Questa repository contiene appunti e riassunti di vari argomenti di studio. È s
     
   </details>
 <br>
+
 ## Italiano ##
 <details style="margin-left: 40px;">
   <summary>Napoleone e Rivoluzione Francese</summary>
@@ -46,6 +47,7 @@ Questa repository contiene appunti e riassunti di vari argomenti di studio. È s
     <li><a href="/Storia & Italiano/Parini.md">Parini</a></li>
   </ul>
   <br>
+  
 ## Telecomunicazioni ##
 <details>
   <summary>Formulari</summary>
