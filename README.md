@@ -1,104 +1,94 @@
-Ecco una versione **ottimizzata**, **esteticamente gradevole** e **funzionale** del tuo `README.md` su GitHub, basata sulla struttura della cartella che mi hai fornito:
-
----
-
 # 📚 Appunti Pubblici
 
-Questa repository raccoglie appunti e riassunti di varie materie scolastiche, suddivisi per indirizzo e argomento. È pensata per organizzare in modo chiaro e accessibile tutte le risorse utili durante il percorso di studi.
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![Updated](https://img.shields.io/badge/last%20update-April%202025-orange)
+![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
+
+Repository che raccoglie appunti e riassunti di diverse materie scolastiche, utili per lo studio quotidiano e per la maturità.
 
 ---
 
 ## 📌 Indice
 
 - [💻 Informatica](#-informatica)
-    
 - [🛰️ Telecomunicazioni](#-telecomunicazioni)
-    
 - [📘 TPSI](#-tpsi)
-    
 - [📚 Storia & Italiano](#-storia--italiano)
-    
 
 ---
 
 ## 💻 Informatica
 
-- Ex1 – Credit Card Mask
-    
-- Ex2 – Two Sum
-    
+<details>
+  <summary><strong>🧩 Exercises For Fun</strong></summary>
+
+- [Ex1 – Credit Card Mask](Materie%20di%20Indirizzo/Informatica/Exercises_For_Fun/Ex1.md)
+- [Ex2 – Two Sum](Materie%20di%20Indirizzo/Informatica/Exercises_For_Fun/Ex2.md)
+
+</details>
 
 ---
 
 ## 🛰️ Telecomunicazioni
 
-- Formulario 30/05/2024
-    
-- Formulario 18/04/2024
-    
-- Formulario 21/03/2024
-    
+<details>
+  <summary><strong>📐 Formulari</strong></summary>
+
+- [Formulario 30/05/2024](Materie%20di%20Indirizzo/Telecomunicazioni/Formulari/Formulario%2030.05.2024.md)
+- [Formulario 18/04/2024](Materie%20di%20Indirizzo/Telecomunicazioni/Formulari/Formulario%2018.04.2024.md)
+- [Formulario 21/03/2024](Materie%20di%20Indirizzo/Telecomunicazioni/Formulari/Formulario%2021.03.2024.md)
+
+</details>
 
 ---
 
 ## 📘 TPSI
 
-- 🔜 _Sezione in aggiornamento…_
-    
+- 📁 `Maturità` *(contenuti in arrivo)*
 
 ---
 
 ## 📚 Storia & Italiano
 
-- Napoleone
-    
-- Punti Chiave - Napoleone
-    
-- Rivoluzione Francese
-    
-- Punti Chiave - Rivoluzione Francese
-    
+<details>
+  <summary><strong>🇫🇷 Napoleone e Rivoluzione Francese</strong></summary>
 
-- Ugo Foscolo
-    
-- Neoclassicismo e Preromanticismo
-    
-- T1
-    
-- T2
-    
-- T3
-    
-- T7 e sonetti
-    
-- T8
-    
-- T9
-    
-- T10
-    
+- [Napoleone](Storia%20%26%20Italiano/Napoleone%20e%20Rivoluzione%20Francese/Napoleone.md)
+- [Punti Chiave - Napoleone](Storia%20%26%20Italiano/Napoleone%20e%20Rivoluzione%20Francese/Punti%20Chiave%20-%20Napoleone.md)
+- [Rivoluzione Francese](Storia%20%26%20Italiano/Napoleone%20e%20Rivoluzione%20Francese/Rivoluzione%20Francese.md)
+- [Punti Chiave - Rivoluzione Francese](Storia%20%26%20Italiano/Napoleone%20e%20Rivoluzione%20Francese/Punti%20Chiave%20-%20Rivoluzione%20Francese.md)
+
+</details>
+
+<details>
+  <summary><strong>✍️ Ugo Foscolo</strong></summary>
+
+- [Ugo Foscolo](Storia%20%26%20Italiano/Ugo%20Foscolo/Ugo%20Foscolo.md)
+- [Neoclassicismo e Preromanticismo](Storia%20%26%20Italiano/Ugo%20Foscolo/Neoclassicismo%20e%20Preromanticismo.md)
+- [T1](Storia%20%26%20Italiano/Ugo%20Foscolo/T1.md)
+- [T2](Storia%20%26%20Italiano/Ugo%20Foscolo/T2.md)
+- [T3](Storia%20%26%20Italiano/Ugo%20Foscolo/T3.md)
+- [T7 e sonetti](Storia%20%26%20Italiano/Ugo%20Foscolo/T7%20%26%20sonetti.md)
+- [T8](Storia%20%26%20Italiano/Ugo%20Foscolo/T8.md)
+- [T9](Storia%20%26%20Italiano/Ugo%20Foscolo/T9.md)
+- [T10](Storia%20%26%20Italiano/Ugo%20Foscolo/T10.md)
+
+</details>
 
 ### 📄 Altri Riassunti
 
-- Galileo Galilei (09/10/2023)
-    
-- Goldoni
-    
-- Parini
-    
+- [Galileo Galilei (09/10/2023)](Storia%20%26%20Italiano/Riassunti%2009.10.2023.md)
+- [Goldoni](Storia%20%26%20Italiano/Goldoni.md)
+- [Parini](Storia%20%26%20Italiano/Parini.md)
 
 ---
 
-## ✅ Come Contribuire
+## ✅ Come contribuire
 
-Se vuoi contribuire, apri una **Pull Request** o segnala un errore tramite le **Issues**!
+Hai trovato un errore o vuoi aggiungere qualcosa? Apri una **Pull Request** o segnala un problema nelle **Issues**.
 
 ---
 
 ## 📜 Licenza
 
-Questo progetto è distribuito sotto licenza **MIT**. Puoi utilizzarlo, modificarlo e condividerlo liberamente.
-
----
-
-Vuoi anche aggiungere dei badge (es. `last update`, `MIT license`, `made with ❤️`) in cima?
+Distribuito con licenza [MIT](LICENSE).
