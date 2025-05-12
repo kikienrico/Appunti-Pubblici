@@ -82,4 +82,4 @@ echo "<p>Sono le " . $ora . "</p>"; // stringa dinamica
 ### Sintassi:
 - Le **virgolette doppie** permettono di interpretare variabili: `"Ciao $nome"`
 - Le **virgolette singole** no: `'Ciao $nome'` stampa letteralmente `$nome`
-- Le parti di stringa si **concatenano con il punto** `.`
+- Le parti di stringa si **concatenano con il punto** `.` o con `{}` 
