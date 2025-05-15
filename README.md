@@ -48,7 +48,7 @@ Repository che raccoglie appunti e riassunti di diverse materie scolastiche, uti
 <details>
   <summary><strong>📐 Esercitazioni</strong></summary>
 
-- [Exercise 22 | Configuring FireWall ASA 5506](Materie%20di%20Indirizzo/Sistemi%e%Reti/Es22/Ex22_Solution.md)
+- [Exercise 22 | Configuring FireWall ASA 5506](Materie%20di%20Indirizzo/Sistemi%20e%20Reti/Es22/Ex22_Solution.md)
 
 </details>
 
