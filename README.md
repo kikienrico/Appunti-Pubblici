@@ -1,7 +1,7 @@
 # 📚 Appunti Pubblici
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Updated](https://img.shields.io/badge/last%20update-April%202025-orange)
+![Updated](https://img.shields.io/badge/last%20update-May%202025-orange)
 ![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
 
 Repository che raccoglie appunti e riassunti di diverse materie scolastiche, utili per lo studio quotidiano e per la maturità.
@@ -12,6 +12,7 @@ Repository che raccoglie appunti e riassunti di diverse materie scolastiche, uti
 
 - [💻 Informatica](#-informatica)
 - [🛰️ Telecomunicazioni](#-telecomunicazioni)
+- [📘 Sistemi e Reti](#-sistemi)
 - [📘 TPSI](#-tpsi)
 - [📚 Storia & Italiano](#-storia--italiano)
 
@@ -37,6 +38,17 @@ Repository che raccoglie appunti e riassunti di diverse materie scolastiche, uti
 - [Formulario 30/05/2024](Materie%20di%20Indirizzo/Telecomunicazioni/Formulari/Formulario%2030.05.2024.md)
 - [Formulario 18/04/2024](Materie%20di%20Indirizzo/Telecomunicazioni/Formulari/Formulario%2018.04.2024.md)
 - [Formulario 21/03/2024](Materie%20di%20Indirizzo/Telecomunicazioni/Formulari/Formulario%2021.03.2024.md)
+
+</details>
+
+---
+
+## 📡 Sistemi e Reti
+
+<details>
+  <summary><strong>📐 Esercitazioni</strong></summary>
+
+- [Exercise 22 | Configuring FireWall ASA 5506](Materie%20di%20Indirizzo/Sistemi%e%Reti/Es22/Ex22_Solution.md)
 
 </details>
 
