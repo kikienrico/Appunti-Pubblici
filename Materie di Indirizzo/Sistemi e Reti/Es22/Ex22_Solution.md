@@ -2,6 +2,9 @@
 
 This exercise demonstrates how to configure a Cisco ASA 5506-X firewall in a basic network topology. It covers interface configuration, security levels, DHCP server setup, routing, and inspection policies.
 
+![alt text](./Es22_Image.jpg "Image")
+[![Download Exercise](./Exercise22.pkt)
+
 ## Network Topology
 
 The setup includes:
